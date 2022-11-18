@@ -351,3 +351,4 @@ MigrationBackup/
 
 # ipychecks
 .ipynb_checkpoints
+.venv
